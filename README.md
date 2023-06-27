@@ -8,7 +8,7 @@
 
 The objective of this project is to create an automated calculator of complex numbers, in addition to this, it will be intended to show the most basic use of the interfaces belonging to the java library, in this particular case two different types of them are used. 
 
-**Comparable and Cloneable**
+`Comparable and Cloneable`
 
 For this program to work we must create a class that takes care of constructing the different complex numbers, besides creating basic methods or overwrite the methods of the interfaces on these. The actions can be such as:
 
